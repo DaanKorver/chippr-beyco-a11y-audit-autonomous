@@ -64,8 +64,6 @@ De tools die zijn gebruikt voor deze beoordeling zijn de volgende:
 
 ### Checklist 
 
-{Beschijf de resultaten van de hele test op basis van de A11Y Project-Checklist}
-
 ##### Content
 
 ##### Global code
@@ -79,10 +77,15 @@ De tools die zijn gebruikt voor deze beoordeling zijn de volgende:
 ##### Lists
 
 ##### Controls
-
+* All inputs in a form are associated with a corresponding  ```
+<label>``` element.   
+Label elementen missen het ```for``` attribuut en bevatten geen tekst
+* 
 ##### Tables
 
 ##### Forms
+
+
 
 ##### Media
 
