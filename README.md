@@ -35,6 +35,7 @@ URLs die mee zijn genomen in de beoordeling:
 Test data:
 * 28-10-2021
 * 29-10-2021
+* 01-11-2021
 
 Taal: Nederlands
 
@@ -54,7 +55,6 @@ De tools die zijn gebruikt voor deze beoordeling zijn de volgende:
 * [Google Lighthouse](https://developers.google.com/web/tools/lighthouse)
 
 ## Testresultaten en aanbevelingen
-{Samenvatting van testresultaten, bv. deze website {voldoet/ voldoet niet/ is dichtbij aan voldoen} aan de WCAG 2.1, op niveau A, AA of AAA.}
 De huidige website van beyco voldoet niet nivea AA van de WCAG 2.1. Om deze score toch te behalen zijn er een paar aanbevelingen.
 
 * Zorg dat labels de juiste attributen bevatten en dat er een duidelijke tekst in staat.
