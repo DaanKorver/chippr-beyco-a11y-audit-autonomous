@@ -140,6 +140,10 @@ Dit is de huidige score van beyco zonder enige optimalisatie.
 Dit is de huidige score van beyco zonder enige optimalisatie.
 ![Lighthouse Mobile](assets/lighthouse_mobile_before.png)
 
+## Testen in de zon
+We hebben ook nog getest in de zon op te checken op contrast.
+![Testen in de zon](assets/zontest.jpg)
+
 ## Licentie
 
 ![GNU GPL V3](https://www.gnu.org/graphics/gplv3-127x51.png)
