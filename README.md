@@ -63,9 +63,6 @@ De huidige website van beyco voldoet niet nivea AA van de WCAG 2.1. Om deze scor
 * Zorg dat er geen horizontale scroll aanwezig is en dat de content niet naar de zijkant word gepushed op kleine schermen zoals Iphone 5
 * Zorg dat er genoeg scroll ruimte is op mobile.
 
-### Sterke punten
-{Samenvatting van de de sterke punten ...}
-
 ### Ontoegankelijke punten
 * Label elementen missen het ```for``` attribuut en bevatten geen tekst
 * In de footer is er een input om jezelf in te schrijven voor de nieuwsbrief. Als je hier een verkeerd email adress invoerd krijg je een error. Het contrast van deze error is niet goed.
