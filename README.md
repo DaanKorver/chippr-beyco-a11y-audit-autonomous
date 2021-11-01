@@ -37,7 +37,7 @@ Test data:
 * 29-10-2021
 * 01-11-2021
 
-Taal: Nederlands
+Taal: Engels
 
 ## Beoordelaars
 Daan Korver  
