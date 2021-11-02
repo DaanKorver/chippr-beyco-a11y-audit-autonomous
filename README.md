@@ -130,6 +130,18 @@ Op kleinere telefoons zoals Iphone 5 is er aan de rechterkant witruimte die zich
 * Ensure sufficient space between interactive items in order to provide a scroll area.  
 Bij de sectie van "Search your coffees" is er niet genoeg ruimte voor de gebruiker om te scrollen. Het zou zo maar kunnen dat je perongeluk 1 van de bedrijven aanklikt waardor je weer terug moet gaan naar de vorige pagina.
 
+### Extra Tests
+
+Naast de A11Y checklist zijn er ook nog een paar andere punten waarop wij hebben getest. Deze punten hebben wij besproken samen met de opdrachtgever (Chelsea).
+
+#### Zonlicht  
+01-11-2021 hebben wij getest op zonlicht. Hieruit bleek dat het zeer slecht te zien was. Dit kwam doordat het contrast van de text niet goed genoeg was.
+[Zie bijlage](#testen-in-de-zon)
+
+
+#### Internet snelheid
+Omdat beyco vaak word gebruik in landen zoals peru hebben wij ook getest op internet snelheid. Uit deze test is gebleken dat de website van beyco heel traag laad. Dit kan verbeterd worden doormiddel van image compression, code minifying en minder request maken naar grote files. [Zie bijlage](#)
+
 ## Bijlagen
 
 ### Lighthouse Desktop
@@ -143,6 +155,14 @@ Dit is de huidige score van beyco zonder enige optimalisatie.
 ## Testen in de zon
 We hebben ook nog getest in de zon op te checken op contrast.
 ![Testen in de zon](assets/zontest.jpg)
+
+## Fast 3G
+Test met Fast 3G
+![Fast 3G](assets/fast_3g.png)
+
+## Slow 3G
+Test met Slow 3G
+![Slow 3G](assets/slow_3g.png)
 
 ## Licentie
 
